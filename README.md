@@ -1,2 +1,2 @@
-# showmak3r
-Official implementation of the paper "ShowMak3r: Compositional TV Show Reconstruction" [CVPR 2025]
+# ShowMak3r: Compositional TV Show Reconstruction
+Code will be released soon!
